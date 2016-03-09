@@ -1,9 +1,15 @@
 === Plugin Name ===
+
 Contributors: nabtron
+
 Donate link: http://nabtron.com/clearboth/
+
 Tags: clear, both, clearboth, wordpress, post, remove, float, floating
+
 Requires at least: 4.2
+
 Tested up to: 4.4.2
+
 Stable tag: 1.0
 
 Add clear both via line break or div using shortcode in your post or page plugin for wordpress
