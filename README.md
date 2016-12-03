@@ -1,19 +1,11 @@
 === Plugin Name ===
-
 Contributors: nabtron
- 
 Donate link: http://nabtron.com/clearboth/
-
 Tags: clear, both, clearboth, wordpress, post, remove, float, floating, alignment, left, right
-
 Requires at least: 4.2
-
-Tested up to: 4.5
-
-Stable tag: 1.0.1
-
+Tested up to: 4.7
+Stable tag: 1.0.3
 License: GPLv2 or later
-
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add clear both via line break or div using shortcode in your post or page plugin for wordpress
@@ -42,11 +34,16 @@ Found a bug or have a feature request ? <a href="http://nabtron.com/clearboth/">
 By Simply typing [clearboth] in your content wherever you want <br style="clear:both"; /> to appear.
 
 == Screenshots ==
-
 1. Clearboth usage while writing in backend
 2. Clearboth output on frontend
 
 == Changelog ==
+
+= 1.0.3 =
+* Confirmed WordPress 4.7 compatibility
+
+= 1.0.2 =
+* Fixed the bug causing design break
 
 = 1.0.1 =
 * Confirmed WordPress 4.5 compatibility
@@ -56,5 +53,5 @@ By Simply typing [clearboth] in your content wherever you want <br style="clear:
 
 == Upgrade Notice ==
 
-= 1.0.1 =
-Confirmed WordPress 4.5 compatibility
+= 1.0.3 =
+Confirmed WordPress 4.7 compatibility
