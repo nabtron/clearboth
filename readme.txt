@@ -3,8 +3,8 @@ Contributors: nabtron
 Donate link: http://nabtron.com/clearboth/
 Tags: clear, both, clearboth, wordpress, post, remove, float, floating, alignment, left, right
 Requires at least: 4.2
-Tested up to: 4.7
-Stable tag: 1.0.3
+Tested up to: 5.0
+Stable tag: 1.0.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,12 @@ By Simply typing [clearboth] in your content wherever you want <br style="clear:
 
 == Changelog ==
 
+= 1.0.3.2 =
+* Confirmed WordPress 5.0 compatibility
+
+= 1.0.3.1 =
+* Confirmed WordPress 4.7.2 compatibility
+
 = 1.0.3 =
 * Confirmed WordPress 4.7 compatibility
 
@@ -53,5 +59,5 @@ By Simply typing [clearboth] in your content wherever you want <br style="clear:
 
 == Upgrade Notice ==
 
-= 1.0.3 =
-Confirmed WordPress 4.7 compatibility
+= 1.0.3.2 =
+Confirmed WordPress 5.0 compatibility

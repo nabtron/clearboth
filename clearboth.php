@@ -2,12 +2,12 @@
 /*
 Plugin Name: ClearBoth
 Plugin URI: http://www.nabtron.com/clearboth/
-Description: Add clear both via line break or div using shortcode: <strong>[clearboth]</strong> in your post or page plugin for wordpress
-Version: 1.0.3
+Description: Add linebreak with css style <strong>clear:both</strong> from wordpress editor using shortcode: <strong>[clearboth]</strong> in your post or page plugin for wordpress
+Version: 1.0.3.2
 Author: Nabtron
 Author URI: http://nabtron.com/
 Min WP Version: 4.2
-Max WP Version: 4.7
+Max WP Version: 5.0
 */
 
 class nabclearboth_main {
@@ -16,4 +16,3 @@ class nabclearboth_main {
 	}
  }
  add_shortcode( 'clearboth', array( 'nabclearboth_main', 'nabclearboth_func' ) );
-?>
