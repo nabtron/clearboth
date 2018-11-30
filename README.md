@@ -10,7 +10,7 @@ Requires at least: 4.2
 
 Tested up to: 4.7
 
-Stable tag: 1.0.3
+Stable tag: 1.0.3.2
 
 License: GPLv2 or later
 
@@ -49,6 +49,14 @@ By Simply typing [clearboth] in your content wherever you want <br style="clear:
 2. Clearboth output on frontend
 
 == Changelog ==
+
+= 1.0.3.2 =
+
+* Confirmed WordPress 5.0 compatibility
+
+= 1.0.3.1 =
+
+* Confirmed WordPress 4.7.2 compatibility
 
 = 1.0.3 =
 
